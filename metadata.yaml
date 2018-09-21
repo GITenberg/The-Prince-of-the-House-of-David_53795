@@ -1,0 +1,28 @@
+_repo: The-Prince-of-the-House-of-David_53795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ingraham, J. H. (Joseph Holt)
+    alias: Ingraham, Joseph Holt
+    birthdate: 1809
+    deathdate: 1860
+    gutenberg_agent_id: '37483'
+    url: http://www.gutenberg.org/2009/agents/37483
+description: ''
+gutenberg_issued: '2016-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Christian fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Bible. New Testament -- History of Biblical events -- Fiction'
+- GITenberg
+title: The Prince of the House of David
+url: http://www.gutenberg.org/ebooks/53795
